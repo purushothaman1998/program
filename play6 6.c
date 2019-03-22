@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-int main(void) 
+int main() 
 {
 	char str[20],c;
 	int i;
-	scanf("%s %c",str,&c);
+	scanf("%s %c",&str,&c);
 	for(i=0;str[i]!='\0';i++)
 	{
 		if(str[i]==c)
