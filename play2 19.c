@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 {
-printf("enter the name kabali";
+printf("enter the name kabali");
 scanf("%d",&kabali);
 }
 else
